@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "build:css": "tailwindcss build popup.css -o dist/popup.css"
+    },
+    "dependencies": {
+        "tailwindcss": "^3.4.1"
+    }
+}
