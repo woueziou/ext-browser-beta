@@ -1,5 +1,7 @@
 //  popup.js
 
+// https://github.com/microsoft/MicrosoftEdge-Extensions/blob/main/Extension%20samples/extension-getting-started-part2/extension-getting-started-part2/popup/popup.js
+// https://github.com/microsoft/MicrosoftEdge-Extensions/blob/main/Extension%20samples/extension-getting-started-part2/extension-getting-started-part2/content-scripts/content.js
 /* The code is adding an event listener to the 'DOMContentLoaded' event, which is fired when the
 initial HTML document has been completely loaded and parsed. */
 document.addEventListener('DOMContentLoaded', () => {
