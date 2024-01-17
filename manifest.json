@@ -1,4 +1,8 @@
 {
+    "ids": [
+        "793b358e-447b-46d9-ba6b-e03d5442257d"
+    ],
+    "accepts_tls_channel_id": false,
     "manifest_version": 2,
     "name": "ext-browser-beta",
     "version": "1.0",
